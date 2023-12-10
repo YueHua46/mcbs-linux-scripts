@@ -90,4 +90,4 @@ class WhiteList {
 
 const whitelist = new WhiteList()
 
-whitelist.addUser("Yinglin3467","2766274062",true)
+// whitelist.addUser("Yinglin3467","2766274062",true)
